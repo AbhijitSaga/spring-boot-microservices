@@ -1,7 +1,11 @@
 # spring-boot-microservices
-# 
+
 #GetApi: http://localhost:8084/users/22a216e9-ef34-48bc-85e0-53235d6dbec4 
 #collection result above api url in json
+
+
+
+
 {
     "userId": "22a216e9-ef34-48bc-85e0-53235d6dbec4",
     "name": "abc",
